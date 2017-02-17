@@ -1,0 +1,110 @@
+@import '../css/colors.css';
+
+.color {
+  margin: 10px;
+}
+
+.swatch {
+  padding: 15px;
+  line-height: 1.6;
+}
+
+.turquoise {
+  color: var(--WHITE);
+  background-color: var(--TURQUOISE);
+}
+
+.green-sea {
+  color: var(--WHITE);
+  background-color: var(--GREEN_SEA);
+}
+
+.emerald {
+  color: var(--WHITE);
+  background-color: var(--EMERALD);
+}
+
+.nephritis {
+  color: var(--WHITE);
+  background-color: var(--NEPHRITIS);
+}
+
+.peter-river {
+  color: var(--WHITE);
+  background-color: var(--PETER_RIVER);
+}
+
+.belize-hole {
+  color: var(--WHITE);
+  background-color: var(--BELIZE_HOLE);
+}
+
+.amethyst {
+  color: var(--WHITE);
+  background-color: var(--AMETHYST);
+}
+
+.wisteria {
+  color: var(--WHITE);
+  background-color: var(--WISTERIA);
+}
+
+.wet-asphalt {
+  color: var(--WHITE);
+  background-color: var(--WET_ASPHALT);
+}
+
+.midnight-blue {
+  color: var(--WHITE);
+  background-color: var(--MIDNIGHT_BLUE);
+}
+
+.sun-flower {
+  color: var(--WHITE);
+  background-color: var(--SUN_FLOWER);
+}
+
+.orange {
+  color: var(--WHITE);
+  background-color: var(--ORANGE);
+}
+
+.carrot {
+  color: var(--WHITE);
+  background-color: var(--CARROT);
+}
+
+.pumpkin {
+  color: var(--WHITE);
+  background-color: var(--PUMPKIN);
+}
+
+.alizarin {
+  color: var(--WHITE);
+  background-color: var(--ALIZARIAN);
+}
+
+.pomegranate {
+  color: var(--WHITE);
+  background-color: var(--POMEGRANATE);
+}
+
+.clouds {
+  color: var(--SILVER);
+  background-color: var(--CLOUDS);
+}
+
+.silver {
+  color: var(--WHITE);
+  background-color: var(--SILVER);
+}
+
+.concrete {
+  color: var(--WHITE);
+  background-color: var(--CONCRETE);
+}
+
+.asbestos {
+  color: var(--WHITE);
+  background-color: var(--ASBESTOS);
+}
