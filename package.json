@@ -2,7 +2,7 @@
   "name": "dc-react-components",
   "version": "1.0.0",
   "description": "A sample from my private collection :)",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "lint": "eslint -c ./.eslintrc.json ./src",
     "build": "webpack --progress",
